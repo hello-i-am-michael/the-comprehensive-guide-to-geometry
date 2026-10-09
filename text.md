@@ -1,239 +1,247 @@
-The Comprehensive Guide to Geometry 1
-A printer-friendly guide by Michael, Avery, Liam, and Mia
-1.1
+### The Comprehensive Guide to Geometry 1
+
+_A printer-friendly guide by Michael, Avery, Liam, and Mia_
+# 1.1
+
 Point – a place in a space with no shape nor size. 
+
 Line – a point in space that extends infinitely with no thickness (no start and no end)            
+
 Ray – a point in space that extends infinitely one direction with no thickness (1 start, no end)
+
 Segment – a point in space that extends to a start and stop point with no thickness (1 start, 1 end)
+
 Collinear: 2 or more points on the same line.
 
 Vertex – where two rays meet
+
 Vertex has to be the middle letter of the angle naming. If an angle cannot be confused, you can use the vertex.
 
 Plane – flat surface that extends infinitely (needs 3 points to define)
+
 Coplanar – on the same plane
 
-1.2, 1.4
+# 1.2, 1.4
 Midpoints – break a segment into 2 equal parts (you can’t do this with a line because you can’t break Infinity in half)
+
 Bisected – When a segment is broken into two congruent (equal) parts
+> Midpoint = $(\frac{x_{2}+x_{1}}{2},\frac{y_{2}+y_{1}}{2})$
 
- Midpoint = (x1+x22,y1+y22)
+# 1.3, 1.5
+> Finding Ratios on a Line = $m:n; \frac{nx_{1}+mx_{2}}{n+m}$
 
-1.3, 1.5
-Three ways to write ratios:
-2:5
-25
-2 to 5
-Finding Ratios on a Line = m:n; nx1+mx2n+m
-Weighted Averages =  w1x1+w2x2w1+w2
-2.1, 2.2
+
+> Weighted Averages = $\frac{w_{1}x_{1}+w_{2}x_{2}}{w_{1}w_{2}}$
+
+
+# 2.1, 2.2
+
 Adjacent Angles – Angles which share a vertex and ray together.
+
 Linear Pair – Two adjacent angles which make a 180 degree angle
+
 Vertical Angles – Angles opposite of each other formed by intersecting lines
 
 Complementary Angles – Angles that add up to 90°
+
 Supplementary Angles – Angles that add up to 180°
 
 Angle Bisector – Divides an angle into two congruent angles
-3.1, 3.2
+# 3.1, 3.2
 Inductive Reasoning – Reasoning based on patterns. IMPORTANT: Don’t know if it WILL happen yet.
+
 Conjecture – Conclusion based on observations
+
 Counterexample – To prove something is wrong by giving an example which is wrong.
 
-IF/THEN: →
-– Conditional statement. If one thing is true, then the other SHOULD be true, or it is a lie.
--
-AND: ∧
-– Conjunction. Both must be true for the full statement to be true.
--
-OR: ⋁
-– Disjunction. One or more must be true for the full statement to be true.
-–
-NOT: ~
-– Negation. Opposite of original.
+> IF/THEN: →
+> 
+> Conditional statement. If one thing is true, then the other SHOULD be true, or it is a lie.
+
+
+> AND: ∧
+>
+> Conjunction. Both must be true for the full statement to be true.
+
+
+> OR: ⋁
+>
+> Disjunction. One or more must be true for the full statement to be true.
+
+
+> NOT: ~
+>
+> Negation. Opposite of original.
+
+
 Truth Tables:
-p
-q
-p ∧ q
-T
-T
-T
-T
-F
-F
-F
-T
-F
-F
-F
-F
+| p  | q  | p∧q  |
+| -- | -- | ----- |
+| T  | T  | T     |
+| T  | F  | F     |
+| F  | T  | F     |
+| F  | F  | F     |
 
 Regular: p→q
+
 Converse: q→p
+
 Inverse: ~p→~q
+
 Contrapositive: ~q→~p
 
 Original       	  p    →    q
 If a person is Greek, then they are European
 -
+
 Converse    		   q   →    p
 If a person is European, then they are Greek
 -
+
 Inverse      	 ~p   →   ~q
 If a person is not Greek, then they are not European
-—
+-
+
 Contrapositive 	 ~q   →  ~p
 If a person is not European, then they are not Greek
-3.2, 3.3
+# 3.2, 3.3
 Biconditional - when a statement and the converse is true ( instead of if you use if and only if where then would be )
 
 Inductive Reasoning – using patterns to make future assertions
+
 Deductive Reasoning ( the use of rules and logic to determine the truth ):
-Law of Detachment – If p →q = true, and p = true, then q = true
-Law of Syllogism – If p →q = true, and q →r = true, then p →r = true
-3.4, 3.5
+- Law of Detachment – If p →q = true, and p = true, then q = true
+- Law of Syllogism – If p →q = true, and q →r = true, then p →r = true
+
+# 3.4, 3.5
 Addition Property of Equality
+
 If a = b, then a + c = b + c
+
+
 Subtraction Property of Equality
+
 If a = b, then a - c = b - c
+
+
 Multiplication Property of Equality
+
 If a = b, then a(c) = b(c)
+
+
 Division Property of Equality
+
 If a = b, and c ≄ 0, then a/c = b/c
+
+
 Distributive Property
+
 a(b + c) = ab + ac 
+
+
 
 Reflexive Property of Equality/Congruence
+
 a = a	∠1 ⩭ ∠1	    AB ⩭ AB 
+
+
 Symmetric Property of Equality/Congruence
+
 If a = b, then b = a	If ∠1 ⩭ ∠2, then ∠2 ⩭ ∠1	   If AB ⩭ CD, then CD ⩭ AB
+
+
 Transitive Property of Equality/Congruence
+
 If a = b and b = c, then a = c 
+
+
 Definition of Congruent Segments  
+
 If AB ⩭ CD then AB = CD
+
+
 Definition of Congruent Angles
+
 If ∠A ⩭ ∠B then m∠A = m∠B
+
+
 
 Segment Addition Postulate 
+
 If A, B, and C are collinear, then B is between points A and C if and only if AB + BC = AC
+
+
 Angle Addition Postulate 
+
 D is the interior of ∠ABC if and only if ∠ABD + ∠DBC = ∠ABC
-Addition Property of Equality
-Subtraction Property of Equality
-Multiplication Property of Equality
-Division Property of Equality
-Distributive Property
-If a = b, then a + c = b + c
-If a = b, then a - c = b - c
-If a = b, then a(c) = b(c)
-If a = b, and c ≄ 0, then a/c = b/c
-a(b + c) = ab + ac 
-
-
-Reflexive Property of Equality/
-Congruence
-Symmetric Property of Equality/
-Congruence
-Transitive Property of Equality/
-Congruence
-Definition of Congruent Segments 
-Definition of Congruent Angles
-
-a = a
-∠1 ⩭ ∠1	    AB ⩭ AB 
-If a = b, then b = a
-
-If ∠1 ⩭ ∠2, then ∠2 ⩭ ∠1	 
-
-If AB ⩭ CD, then CD ⩭ AB
-If a = b and b = c, then a = c
-If AB ⩭ CD then AB = CD
-If ∠A ⩭ ∠B then m∠A = m∠B
-
-Segment Addition Postulate
-Angle Addition Postulate
-If A, B, and C are collinear, then C is between points A and B if and only if AC + CB = AB
-D is the interior of ∠ABC if and only if ∠ABD + ∠DBC = ∠ABC
-
-
-
-
 
 Definition of Angle Bisector
-Definition of Segment Bisector
+
 An angle bisector divides an angle into two smaller congruent angles.
+
+
+Definition of Segment Bisector
 
 A point, segment, ray, or line that divides a segment into two smaller congruent segments.
 
 
+# 3.6
 Supplement Theorem
-Complement Theorem
-Congruent Supplements Theorem
-Congruent Complements Theorem
-Vertical Angles Theorem
-If two angles form a linear pair, then they are supplementary
-If the noncommon sides of two adjacent angles form a right angle, then the angles are complementary.
-If two angles are supplementary to tFhe same angle, then they are congruent
-If two angles are complementary to the same angle, then they are congruent
-If two angles are vertical angles, then they are congruent
 
-
-
-3.6
-Supplement Theorem
 If a = b, then a + c = b + c
+
+
 Compliment Theorem
+
 If a = b, then a - c = b - c
+
+
 Congruent Supplements Theorem: If two angles are supplementary to the same angle, then they are congruent
+
+
 Congruent Complements Theorem: If two angles are complementary to the same angle, then they are congruent
+
+
 Vertical Angles Theorem: If two angles are vertical angles, then they are congruent
+
+
 Definition of Angle Bisector: An angle bisector divides an angle into two smaller congruent angles.
+
+
 Definition of Segment Bisector: A point, segment, ray, or line that divides a segment into two smaller congruent segments.
-3.7, 3.9
+# 3.7, 3.9
+
 Parallel – ||
+
 Transversal: A line which passes through one or more lines.
 Parallel: Two lines which are the same distance from each other and never touch. (They also have the same slope or m)
 
 Alternate Interior Angles: angles between the two crossed lines on opposite sides of the transversal.
+
 Alternate Interior Angle Theorem: Two lines intersected by a transversal are parallel if and only if their alternate interior angles are congruent
+
 Alternate Exterior Angles: angles between the two crossed lines on opposite sides of the transversal.
 
 Alternate Exterior Angles Theorem: Two lines intersected by a transversal are parallel if and only if their alternate exterior angles are congruent
+
 Corresponding Angles: angles that occur in the same position relative to the transversal and crossed lines.
+
 Corresponding Angles Postulate: Two lines intersected by a transversal are parallel if and only if their corresponding angles are congruent.
+
 Consecutive Angles: angles on the same side of the transversal inside or outside (both inside or both outside) the parallel lines.
 
-
-
-Example:
-
-
-∠1 = 112°
-
-∠2 = 68°
-∠3 = 68°
-∠4 = 112°
-∠5 = 112°
-∠6 = 68°
-∠7 = 68°
-∠8 = 112°
-
-
-
-
-
-
-3.8, 3.10
+# 3.8, 3.10
 Slope: The “m” in y=mx+b
+
 Rise or  y1 - y2
+
 Run      x1 - x2
 
+
 Parallel lines: Share slopes with each other
-Perpendicular lines: Lines with inverse reciprocals (makes right angles)
-EXAMPLES of PERPENDICULAR LINES:
--4 → ¼
-¾ → -4/3             		   
-   Distance Formula:
+
+Perpendicular lines: Lines with inverse reciprocals (makes right angles)     		   
+
 y=mx+b
 y = Outcome
 m = Slope
@@ -244,25 +252,38 @@ b = Y-Intercept
 
 
 Finding distance between two parallel lines:
+
 Choose any point on one line.  A y-intercept is recommended!
 Find the equation of the line perpendicular to the line that goes through the point that you chose.
 Use systems of equations to find where the perpendicular line and the second parallel line intersect.
 Use the distance formula to find the distance between the given point and the one you found.
-4.1
+# 4.1
 Original or Preimage: A point, segment, or polygon we start with.
+
 Image: The result of our point, segment, or polygon after a transformation
+
 Transformation: A transformation is the change a shape, line, or point goes through.  
+
 Rigid Transformation: The reflection does not change its size or shape. (What a reflection is!!1!1)
 
-REFLECTIONS:
-Reflecting across the x-axis 
-Original point P(x, y) - Image P’(x, -y)
-Reflecting across the y-axis
-Original point P(x, y) - Image P’(-x, y)
-Reflecting across y = x (Converse)
-Original point P(x, y) - Image P’(y, x)
-Reflecting across y = -x (Contrapositive)
-Original point P(x, y) - Image P’(-y, -x)
+
+>REFLECTIONS:
+>
+>Reflecting across the x-axis 
+>
+>Original point P(x, y) - Image P’(x, -y)
+>
+>Reflecting across the y-axis
+>
+>Original point P(x, y) - Image P’(-x, y)
+>
+>Reflecting across y = x (Converse)
+>
+>Original point P(x, y) - Image P’(y, x)
+>
+>Reflecting across y = -x (Contrapositive)
+>
+>Original point P(x, y) - Image P’(-y, -x)
 
 Use this to reflect shapes as it is easier. Example:
 Using the midpoint formula to find line of reflection:
