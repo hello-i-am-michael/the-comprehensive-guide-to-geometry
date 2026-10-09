@@ -1,5 +1,5 @@
 The Comprehensive Guide to Geometry 1
-A printer-friendly guide by Michael, Avery, Liam, and Mia
+A printer-friendlly guide by Michael, Avery, Liam, and Mia
 1.1
 Point – a place in a space with no shape nor size. 
 Line – a point in space that extends infinitely with no thickness (no start and no end)            
