@@ -1,6 +1,6 @@
 ### The Comprehensive Guide to Geometry 1
 
-_A printer-friendly guide by Michael, Avery, Liam, and Mia_
+_A github-friendly guide by Michael, Avery, Liam, and Mia_
 # 1.1
 
 Point – a place in a space with no shape nor size. 
