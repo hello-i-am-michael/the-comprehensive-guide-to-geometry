@@ -1,7 +1,7 @@
 ### The Comprehensive Guide to Geometry 1
 
 _A github-friendly guide by Michael, Avery, Liam, and Mia_
-##  I shall say, why?
+I shall say, why?
 # 1.1
 
 Point – a place in a space with no shape nor size. 
