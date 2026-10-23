@@ -1,8 +1,8 @@
-<h1>The Comprehensive Guide to Geometry 1</h1>
+### The Comprehensive Guide to Geometry 1
 
-<i>A github-friendly guide by Michael, Avery, Liam, and Mia_
+_A github-friendly guide by Michael, Avery, Liam, and Mia_
 I shall say, why?
-<h2> 1.1</h2>
+# 1.1
 
 Point – a place in a space with no shape nor size. 
 
@@ -22,14 +22,14 @@ Plane – flat surface that extends infinitely (needs 3 points to define)
 
 Coplanar – on the same plane
 
-<h2>1.2, 1.4</h2>
+# 1.2, 1.4
 Midpoints – break a segment into 2 equal parts (you can’t do this with a line because you can’t break Infinity in half)
 
 Bisected – When a segment is broken into two congruent (equal) parts
 > Midpoint = $(\frac{x_{2}+x_{1}}{2},\frac{y_{2}+y_{1}}{2})$
 
-<h2>1.3, 1.5</h2>
-> Finding Ratios on a Line = $m:n; \frac{nx_{1}+mx_{2}}{n+m}$
+# 1.3, 1.5
+> Finding Ratios on a Line = $m:n; \frac{nx_{1}+m
 
 
 > Weighted Averages = $\frac{w_{1}x_{1}+w_{2}x_{2}}{w_{1}w_{2}}$
