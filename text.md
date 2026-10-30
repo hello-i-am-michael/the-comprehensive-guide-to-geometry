@@ -474,3 +474,4 @@ A triangle has sides that measure 8,10, and n.
 (10-8)<n<(10+8)
      2<n<18
 
+##############MICHAEL ADD MORE TO THE MARKDOWN
